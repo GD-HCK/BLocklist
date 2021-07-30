@@ -1,3 +1,3 @@
 # Domain lists
-* ```[domains.txt](./domains.txt)```
-* ```[hosts.txt](./hosts.txt)```
+* [domains.txt](./domains.txt)
+* [hosts.txt](./hosts.txt)
